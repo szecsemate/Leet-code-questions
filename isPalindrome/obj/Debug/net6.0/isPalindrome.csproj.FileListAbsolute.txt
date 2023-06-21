@@ -1,0 +1,5 @@
+/home/mate/progi/leetcode/isPalindrome/obj/Debug/net6.0/isPalindrome.csproj.AssemblyReference.cache
+/home/mate/progi/leetcode/isPalindrome/obj/Debug/net6.0/isPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/mate/progi/leetcode/isPalindrome/obj/Debug/net6.0/isPalindrome.AssemblyInfoInputs.cache
+/home/mate/progi/leetcode/isPalindrome/obj/Debug/net6.0/isPalindrome.AssemblyInfo.cs
+/home/mate/progi/leetcode/isPalindrome/obj/Debug/net6.0/isPalindrome.csproj.CoreCompileInputs.cache
